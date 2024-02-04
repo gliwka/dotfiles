@@ -1,0 +1,17 @@
+# Setup brew casks
+cask_args appdir: '/Applications'
+
+brew 'mas'
+brew 'asdf'
+brew 'neovim'
+
+cask '1password'
+cask 'iterm2'
+cask 'google-chrome'
+cask 'firefox'
+cask 'deezer'
+cask 'rancher'
+
+mas 'PDFScanner', id: 410968114
+mas '1Password for Safari', id: 1569813296
+mas 'AdGuard for Safari', id: 1440147259
