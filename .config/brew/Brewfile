@@ -16,6 +16,7 @@ cask 'rancher'
 cask 'signal'
 cask 'whatsapp'
 cask 'pocket-casts'
+cask 'transmission'
 
 cask 'font-caskaydia-cove-nerd-font'
 
