@@ -15,6 +15,7 @@ cask 'deezer'
 cask 'rancher'
 cask 'signal'
 cask 'whatsapp'
+cask 'pocket-casts'
 
 cask 'font-caskaydia-cove-nerd-font'
 
