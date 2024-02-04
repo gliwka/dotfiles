@@ -13,6 +13,8 @@ cask 'google-chrome'
 cask 'firefox'
 cask 'deezer'
 cask 'rancher'
+cask 'signal'
+cask 'whatsapp'
 
 cask 'font-caskaydia-cove-nerd-font'
 
