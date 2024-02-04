@@ -22,3 +22,4 @@ cask 'font-caskaydia-cove-nerd-font'
 mas 'PDFScanner', id: 410968114
 mas '1Password for Safari', id: 1569813296
 mas 'AdGuard for Safari', id: 1440147259
+mas 'AusweisApp Bund', id: 948660805
