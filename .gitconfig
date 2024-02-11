@@ -1,12 +1,2 @@
-[user]
-	name = Matthias Gliwka
-	email = matthias@gliwka.eu
-	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE8hiVrTBHZwScqLcG7smnnF0DpkoA5+msJFN+SOQgJ5
-[push]
-	autoSetupRemote = true
-[gpg]
-	format = ssh
-[gpg "ssh"]
-	program = /Applications/1Password.app/Contents/MacOS/op-ssh-sign
-[commit]
-	gpgsign = true
+[include]
+    path = ~/.config/git/.gitconfig
