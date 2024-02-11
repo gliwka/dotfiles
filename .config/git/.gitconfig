@@ -1,3 +1,6 @@
+[core]
+	excludesfile = ~/.config/git/.gitignore
+
 [user]
         name = Matthias Gliwka
         email = matthias@gliwka.eu
