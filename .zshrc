@@ -22,3 +22,12 @@ bindkey "^[[B" down-line-or-beginning-search # Down
 
 # asdf version manager
 . /opt/homebrew/opt/asdf/libexec/asdf.sh
+
+# Setup completions
+if type brew &>/dev/null
+then
+  FPATH="$(brew --prefix)/share/zsh/site-functions:${FPATH}"
+
+  autoload -Uz compinit
+  compinit
+fi
