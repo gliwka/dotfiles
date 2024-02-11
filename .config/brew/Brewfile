@@ -8,6 +8,7 @@ brew 'neovim'
 brew 'powerlevel10k'
 brew 'mpv'
 brew 'tree-sitter'
+brew 'autojump'
 
 cask '1password'
 cask 'iterm2'
@@ -19,6 +20,7 @@ cask 'signal'
 cask 'whatsapp'
 cask 'pocket-casts'
 cask 'transmission'
+cask 'visual-studio-code'
 
 cask 'font-caskaydia-cove-nerd-font'
 
