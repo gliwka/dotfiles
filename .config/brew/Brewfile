@@ -1,6 +1,7 @@
 # Setup brew casks
 cask_args appdir: '/Applications'
 tap 'homebrew/cask-fonts'
+tap 'homebrew/cask-versions'
 
 brew 'mas'
 brew 'asdf'
@@ -21,6 +22,7 @@ cask 'whatsapp'
 cask 'pocket-casts'
 cask 'transmission'
 cask 'visual-studio-code'
+cask 'affinity-photo1' # license: https://start.1password.com/open/i?a=26FLMPKR35H7ZFPTUFFV2GEUNM&v=zumzsqvstdpy6ah235ku6t5que&i=nk2ny2ht4ph7tygzftfpcovkea&h=my.1password.com
 
 cask 'font-caskaydia-cove-nerd-font'
 
