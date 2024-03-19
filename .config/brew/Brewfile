@@ -26,6 +26,8 @@ cask 'affinity-photo1' # license: https://start.1password.com/open/i?a=26FLMPKR3
 cask 'multiviewer-for-f1'
 cask 'displaylink'
 cask 'slack'
+cask 'commandq'
+
 cask 'font-caskaydia-cove-nerd-font'
 
 mas 'PDFScanner', id: 410968114
