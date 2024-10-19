@@ -10,6 +10,15 @@ brew 'powerlevel10k'
 brew 'mpv'
 brew 'tree-sitter'
 brew 'autojump'
+brew 'jq'
+brew 'yq'
+brew 'wget'
+brew 'watch'
+
+brew 'velero'
+brew 'azure-cli'
+brew 'kubectx'
+brew 'k9s'
 
 cask '1password'
 cask 'iterm2'
@@ -20,13 +29,18 @@ cask 'rancher'
 cask 'signal'
 cask 'whatsapp'
 cask 'pocket-casts'
-cask 'transmission'
 cask 'visual-studio-code'
 cask 'affinity-photo1' # license: https://start.1password.com/open/i?a=26FLMPKR35H7ZFPTUFFV2GEUNM&v=zumzsqvstdpy6ah235ku6t5que&i=nk2ny2ht4ph7tygzftfpcovkea&h=my.1password.com
 cask 'multiviewer-for-f1'
 cask 'displaylink'
 cask 'slack'
 cask 'commandq'
+cask 'jetbrains-toolbox'
+cask 'moneymoney'
+cask 'parallels'
+cask 'rancher'
+cask 'todoist'
+cask 'signal'
 
 cask 'font-caskaydia-cove-nerd-font'
 
@@ -37,3 +51,4 @@ mas 'AusweisApp Bund', id: 948660805
 mas 'Keynote', id: 409183694
 mas 'Pages', id: 409201541
 mas 'Numbers', id: 409203825
+mas 'Canary Mail App', id: 1236045954
